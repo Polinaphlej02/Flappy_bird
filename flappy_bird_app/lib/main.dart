@@ -13,7 +13,8 @@ void main() {
     initialActiveOverlays: const [MainScreen.id],
     overlayBuilderMap: {
       'mainMenu': (context, _) => MainScreen(game: game),
-      'gameOver': (context, _) => GameOver(game: game)
+      'gameOver': (context, _) => GameOver(game: game),
+    }
   ));
 }
 

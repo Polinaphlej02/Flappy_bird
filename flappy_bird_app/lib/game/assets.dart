@@ -6,7 +6,7 @@ class Assets{
   static const pipeOne = "pipe1.png";
   static const pipeTwo = "pipe2.png";
   static const ground = "ground.png";
-  static const gameOver = "gameover.png";
+  static const gameOver = "assets/images/gameover.png";
   static const click = "assets/images/click.png";
   static const main = "assets/images/background.png";
 }
