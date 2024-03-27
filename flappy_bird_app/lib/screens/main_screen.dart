@@ -23,7 +23,7 @@ class MainScreen extends StatelessWidget {
         height: double.infinity,
         decoration: const BoxDecoration(
           image: DecorationImage(
-            image: AssetImage(Assets.background),
+            image: AssetImage(Assets.main),
             fit: BoxFit.cover,
           )
         ),

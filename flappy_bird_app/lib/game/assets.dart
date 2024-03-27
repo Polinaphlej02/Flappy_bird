@@ -8,4 +8,5 @@ class Assets{
   static const ground = "ground.png";
   static const gameOver = "gameover.png";
   static const click = "assets/images/click.png";
+  static const main = "assets/images/background.png";
 }

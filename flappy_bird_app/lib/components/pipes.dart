@@ -5,7 +5,6 @@ import 'package:flappy_bird_app/components/config.dart';
 import 'package:flappy_bird_app/components/pipe.dart';
 import 'package:flappy_bird_app/game/flappy_bird_game.dart';
 import 'package:flappy_bird_app/game/pipe_position.dart';
-import 'package:flappy_bird_app/main.dart';
 import 'package:flutter/material.dart';
 
 class Pipes extends PositionComponent with HasGameRef<FlappyBirdGame>{
